@@ -11,3 +11,9 @@ Code License:
 
 Documentation License:
 [Resources/doc/LICENSE](https://github.com/schmittjoh/JMSSecurityExtraBundle/blob/master/Resources/doc/LICENSE)
+
+## Installation
+
+```
+composer require dqe/security-extra-bundle
+```
